@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Map//EN" "technicalContent/dtd/map.dtd" [
+]>
+<map>
+    <title>MAP TITLE</title>
+    <topicmeta>
+        <author>Aqueuse</author>
+        <publisher>Aqueuse</publisher>
+        <critdates>
+            <created date="Janvier 11, 2022"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="getting-started/quick-presentation-concept.xml"/>
+    <topicref href="getting-started/installation-task.xml"/>
+    <topicref href="getting-started/launch-task.xml"/>
+    <topicref href="getting-started/launch-terminal-task.xml"/>
+    <topicref href="usages-concept.xml"/>
+    <topicref href="classes-map.ditamap"/>
+    </map>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3 Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+<?Fm Condition DITA-Prolog AsIs NO_OVERRIDE hide AsIs?>
+<?Fm Condition DITA-Comment AsIs NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Gris%20anthracite NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Vert%20sapin SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Rouge STRIKETHROUGH show AsIs?>
+<?Fm Condition domain-xml-d AsIs NO_OVERRIDE show AsIs?>
+<?Fm Condition domain-ui-d Rouge NO_OVERRIDE show AsIs?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Jaune?>
+<?Fm Condition FM_PDF_Comments_Underline Bleu SINGLE_UNDERLINE show AsIs?>
+<?Fm BoolCondExpr "domain-xml-d" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll False?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<task id="id221BG0K065U"><title>Installation</title>
+<shortdesc>a quick manual to install Neko</shortdesc>
+<prolog><author>Aqueuse</author></prolog>
+<taskbody><prereq><p>You need a computer with Windows 10 and Java
+SDK17 installed</p></prereq>
+<context><p>This quick tutorial will help you to install Neko on
+your computer</p></context>
+<steps><step><cmd>get the last release on https://github.com/Aqueuse/NekoV2/releases/download/1.0.2/neko.jar</cmd></step>
+<step><cmd>unzip the directory in the place of your choice</cmd></step></steps></taskbody></task>

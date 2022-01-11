@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "technicalContent/dtd/reference.dtd" [
+]>
+<reference id="id221BG0LE0PH">
+	<title>Toy class reference</title>
+	<shortdesc>A description of the methods of the Toy class</shortdesc>
+	<prolog>
+		<author>Aqueuse</author>
+	</prolog>
+    <refbody>
+		<section>
+			<b>animateToy method</b>
+			<p>animate the toy by switching images in a loop with folder content.</p>
+		</section>
+		<section>
+			<b>startBounceToy method</b>
+			<p>Bounce the toy with an independent timer to get a good flexibility beetween neko and the toy.</p>
+		</section>
+		<section>
+			<b>moveTopRight method</b>
+			<p>Move the toy the top right.</p>
+		</section>
+		<section>
+			<b>moveTopLeft method</b>
+			<p>Move the toy the top left.</p>
+		</section>
+		<section>
+			<b>moveBottomRight method</b>
+			<p>Move the toy the bottom right.</p>
+		</section>
+		<section>
+			<b>moveBottomLeft method</b>
+			<p>Move the toy the bottom left.</p>
+		</section>
+    </refbody>
+</reference>

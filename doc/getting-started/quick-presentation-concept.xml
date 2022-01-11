@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+<concept id="id221BG0KH0BE"><title>Quick presentation</title>
+<shortdesc>a quick presentation of the neko app</shortdesc>
+<prolog><author>Aqueuse</author></prolog>
+<conbody><p>Neko is a desktop toy, a kitten with some advanced functionnalities
+(sleep and play mode).</p></conbody></concept>

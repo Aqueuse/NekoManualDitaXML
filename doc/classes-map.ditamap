@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Map//EN" "technicalContent/dtd/map.dtd" [
+]>
+<map>
+  <title>Neko class methods</title>
+  <topicmeta>
+    <author>Aqueuse</author>
+    <publisher>Aqueuse</publisher>
+    <critdates>
+      <created date="Janvier 11, 2022"/>
+    </critdates>
+  </topicmeta>
+<topicref href="code-source-reference/Neko-class-reference.xml"/>
+<topicref href="code-source-reference/toy-class-reference.xml"/>
+<topicref href="code-source-reference/system-tray-class-reference.xml"/>
+<topicref href="code-source-reference/twitchInteraction-class-reference.xml"/>
+</map>

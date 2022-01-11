@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+<concept id="id221BG0KH0BE"><title>Neko Modes</title>
+<shortdesc>A description of the different modes of Neko and their
+usage</shortdesc>
+<prolog><author>Aqueuse</author></prolog>
+<conbody><p>Neko come with different modes that you can access with
+a right click on the Neko system tray icon</p>
+<sl><sli>Independent kitten: Neko will move in your desktop freely
+and take a nap occasionally.</sli>
+<sli>Chase the mouse: the historical mode, Neko will try to capture
+the mouse pointer and sleep beside it if he catch it.</sli>
+<sli>Sleep to the basket : Neko wil rush in the system tray icon
+and convert it to a basket to sleep in it. You can later wake up
+by switching to another mode. This mode is particulary usefull if
+you want to get a free desktop without killing Neko</sli>
+<sli>Catch the toy : launch a bouncy ball of yarn that Neko will
+try to catch.</sli>
+<sli>Chase the red pointer: if you have set a twitch account before
+compiling Neko (see the code source section), you can then use the
+heat twitch extension to let your viewers play with Neko.</sli></sl>
+<p></p></conbody></concept>

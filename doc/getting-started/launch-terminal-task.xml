@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3 Task//EN" "technicalContent/dtd/task.dtd" [
+]>
+
+<?Fm Condition DITA-Prolog AsIs NO_OVERRIDE hide AsIs?>
+<?Fm Condition DITA-Comment AsIs NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Gris%20anthracite NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Vert%20sapin SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Rouge STRIKETHROUGH show AsIs?>
+<?Fm Condition domain-xml-d AsIs NO_OVERRIDE show AsIs?>
+<?Fm Condition domain-ui-d Rouge NO_OVERRIDE show AsIs?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Jaune?>
+<?Fm Condition FM_PDF_Comments_Underline Bleu SINGLE_UNDERLINE show AsIs?>
+<?Fm BoolCondExpr "domain-xml-d" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll False?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<task id="id221BH050V5U"><title>how to launch (by terminal)</title>
+<shortdesc>a quick manual to lauch Neko</shortdesc>
+<prolog><author>Aqueuse</author></prolog>
+<taskbody><prereq><p>You need to have Neko installed on your computer</p></prereq>
+<context><p>this quick tutorial will help you to launch Neko with
+powershell (or cmd). It will spawn in the system tray icon of your
+desktop.</p></context>
+<steps><step><cmd>start a powershell terminal</cmd></step>
+<step><cmd>go in the install directory</cmd></step>
+<step><cmd>execute ./run.bat</cmd></step></steps></taskbody></task>

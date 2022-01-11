@@ -33,13 +33,13 @@ Neko manual in Dita XML format
 ## Information Architecture :
 
 
-- Getting started (task)
+- Getting started (__task__)
     - requirements
     - how to install (steps)
     - how to launch (steps)
 
 
-- Usage (concept)
+- Usage (__concept__)
     - why different modes ?
 
     - modes :
@@ -52,5 +52,5 @@ Neko manual in Dita XML format
         - chase the red pointer
 
 
-- code source (reference)
+- code source (__reference__)
     - classes and methods description

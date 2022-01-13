@@ -9,5 +9,5 @@
 (sleep, cursor chase, free and play mode).</p>
 <p><image href="../ressources/capture-sytrayIcon.PNG" placement="break"
  /></p>
-<p>When he is run, he lay on a system tray icon where you can switch
-his behavior (see <xref href="../usages-concept.xml">modes</xref>)</p></conbody></concept>
+<p>When he is running, the app create a system tray icon where you
+can switch Neko behavior (see <xref  href="#id221BG0KH0BE" format="dita">modes</xref>)</p></conbody></concept>

@@ -6,7 +6,7 @@
 <shortdesc>A description of the methods of MySystemTray class</shortdesc>
 <prolog><author>Aqueuse</author></prolog>
 <refbody><section><b>the constructor</b> <p>Create the Swing hierarchy
-with the buttons to switch the neko modes (see <xref  href="../usages-concept.xml">modes</xref>)</p><p>When
+with the buttons to switch the neko modes (see <xref  href="#id221BG0KH0BE" format="dita">modes</xref>)</p><p>When
 the sleep to the basket mode is triggered, the system tray icon
 become a basket with Neko sleeping inside.</p></section>
 <section><b>buttons listener</b> <p>A listener for the system tray.

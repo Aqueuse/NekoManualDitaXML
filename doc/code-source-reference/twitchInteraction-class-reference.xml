@@ -11,27 +11,24 @@
 	<refbody>
 		<section>
 			<b>onOpen method</b>
-			<p>Send a connect signal
-				to the server.</p>
+			<p>Send a connect signal to the server.</p>
 		</section>
 		<section>
 			<b>onMessage method</b>
-			<p>get the coordinates wished from
-				the json response and translate it to coordinate to send to Neko.</p>
+			<p>Get the coordinates wished from the json response and translate it to coordinate to send to Neko.</p>
 		</section>
 		<section>
 			<b>onClose method</b>
-			<p>print a close resume to the console
-				output.</p>
+			<p>Print a close resume to the console output.</p>
 		</section>
 		<section>
 			<b>onError method</b>
-			<p>print the error stack trace.</p>
+			<p>Print out the error stack trace.</p>
 		</section>
 		<section>
 			<b>twitchListen method</b>
-			<p>Create a websocket instance to listen to the heat extension (<xref href="https://devpost.com/software/heat">https://devpost.com/software/heat</xref>).</p>
-			<p>the response is used by the onMessage method to move Neko.</p>
+			<p>Create a websocket instance to listen to the heat extension (<xref href="https://devpost.com/software/heat" scope="external">https://devpost.com/software/heat</xref>).</p>
+			<p>The response is used by the onMessage method to move Neko.</p>
 		</section>
 	</refbody>
 </reference>

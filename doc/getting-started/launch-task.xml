@@ -16,7 +16,7 @@
 <?Fm ShowAll False?>
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <task id="id221BG0K065U"><title>how to launch (graphical mode)</title>
-<shortdesc>a quick manual to lauch Neko</shortdesc>
+<shortdesc></shortdesc>
 <prolog><author>Aqueuse</author></prolog>
 <taskbody><prereq><p>You need to have Neko installed on your computer</p></prereq>
 <context><p>this quick tutorial will help you to launch Neko. It

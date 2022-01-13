@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "technicalContent/dtd/reference.dtd" [
 ]>
-
-<reference id="id221BG0LE0PH"><title>Neko class reference</title>
-<shortdesc>A description of the methods of the Neko class</shortdesc>
-<prolog><author>Aqueuse</author></prolog>
-<refbody><section><b>Neko Class constructor</b> <p>The Neko constructor
-take the assets for the ressource class NekoAssets to manage the
-animation and start a timer to move neko fluently.</p></section>
-<section><b>moveCatToPosition method</b> <p>parameters : (X coordinates,
-Y coordinates)</p><p>Simply move Neko in the given pisition with
-coherent timer an animation.</p><p>If neko reach his destination,
-the method will return True, else it return False.</p></section>
-<section><b>moveCatToPosition method</b> <p>parameter : (theta orientation
-angle)</p><p>Choose with animation to display depending on the orientation
-of the neko move.</p><p>It just set kittySprites to one or the other
-asset defined in the NekoAsset class.</p></section>
-<section><b>animateSractch method</b> <p>parameter : (Kitty position)</p><p>Let
-Neko scratch itself for an amount of time.</p></section>
-<section><b>animatePrepareToSleep method</b> <p>Let Neko prepare
-to sleep by yawning.</p></section>
-<section><b>animateSleep method</b> <p>Let Neko sleep.</p></section>
-<section><b>loopIndex method</b> <p>parameter : (Kitty sprites)</p><p>Loop
-through the sprites to make the final animation</p></section>
-<section><b>main method</b> <p>Create an instance of the system
-tray icon and of Neko</p></section></refbody></reference>
+<reference id="id221BG0LE0PH">
+    <title>Neko class reference</title>
+    <shortdesc>A description of the methods of the Neko class</shortdesc>
+    <prolog>
+        <author>Aqueuse</author>
+    </prolog>
+    <refbody>
+        <section>
+            <b>Neko Class constructor</b>
+            <p>The Neko constructor take the assets for the ressource class NekoAssets to manage the animation and start a timer to move neko fluently.</p>
+        </section>
+        <section>
+            <b>moveCatToPosition method</b>
+            <p>parameters : (X coordinates, Y coordinates)</p>
+            <p>Simply move Neko in the given pisition with coherent timer an animation.</p>
+            <p>If neko reach his destination, the method will return True, else it return False.</p>
+        </section>
+        <section>
+            <b>moveCatToPosition method</b>
+            <p>parameter : (theta orientation angle)</p>
+            <p>Choose with animation to display depending on the orientation of the neko move.</p>
+            <p>It just set kittySprites to one or the other asset defined in the NekoAsset class.</p>
+        </section>
+        <section>
+            <b>animateSractch method</b>
+            <p>parameter : (Kitty position)</p>
+            <p>Let Neko scratch itself for an amount of time.</p>
+        </section>
+        <section>
+            <b>animatePrepareToSleep method</b>
+            <p>Let Neko prepare to sleep by yawning.</p>
+        </section>
+        <section>
+            <b>animateSleep method</b>
+            <p>Let Neko sleep.</p>
+        </section>
+        <section>
+            <b>loopIndex method</b>
+            <p>parameter : (Kitty sprites)</p>
+            <p>Loop through the sprites to make the final animation</p>
+        </section>
+        <section>
+            <b>main method</b>
+            <p>Create an instance of the system tray icon and of Neko</p>
+        </section>
+    </refbody>
+</reference>

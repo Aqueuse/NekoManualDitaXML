@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Map//EN" "technicalContent/dtd/map.dtd" [
 ]>
 <map>
-	<title>Neko manual</title>
+	<title>Dev Neko manual</title>
 	<topicmeta>
 		<author>Aqueuse</author>
 		<publisher>Aqueuse</publisher>
@@ -11,9 +11,6 @@
 		</critdates>
 	</topicmeta>
 	<topicref href="getting-started/quick-presentation-concept.xml"/>
-	<topicref href="getting-started/installation-task.xml"/>
-	<topicref href="getting-started/launch-task.xml"/>
-	<topicref href="getting-started/launch-terminal-task.xml"/>
 	<topicref href="usages-concept.xml"/>
-	<navref mapref="classes-map.ditamap"/>
+	<mapref href="classes-map.ditamap"/>
 </map>

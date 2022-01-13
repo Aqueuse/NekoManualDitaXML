@@ -15,10 +15,11 @@ the mouse pointer and sleep beside it if he catch it.</sli>
 <sli>Sleep to the basket : Neko wil rush in the system tray icon
 and convert it to a basket to sleep in it. You can later wake up
 by switching to another mode. This mode is particulary usefull if
-you want to get a free desktop without killing Neko</sli>
-<sli>Catch the toy : launch a bouncy ball of yarn that Neko will
-try to catch.</sli>
-<sli>Chase the red pointer: if you have set a twitch account before
-compiling Neko (see the code source section), you can then use the
-heat twitch extension to let your viewers play with Neko.</sli></sl>
-<p></p></conbody></concept>
+you want to get a free desktop without killing Neko.</sli></sl>
+<p><image href="ressources/nekoInbasket.png" placement="break" 
+height="66.500" width="65.000" /></p>
+<sl><sli>Catch the toy : launch a bouncy ball of yarn that Neko
+will try to catch.</sli>
+<sli>Chase the red pointer: if you have set a twitch account in
+the source code before compiling Neko, you can then use the <xref  href="https://devpost.com/software/heat" scope="external">heat 				twitch extension</xref> to
+let your viewers play with Neko.</sli></sl></conbody></concept>

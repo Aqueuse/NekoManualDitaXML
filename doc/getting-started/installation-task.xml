@@ -22,5 +22,5 @@
 SDK17 installed</p></prereq>
 <context><p>This quick tutorial will help you to install Neko on
 your computer</p></context>
-<steps><step><cmd>get the last release on https://github.com/Aqueuse/NekoV2/releases/download/1.0.2/neko.jar</cmd></step>
+<steps><step><cmd>get the last release on <xref  href="https://github.com/Aqueuse/NekoV2/releases/download/1.0.2/neko.jar” format=”html” scope=”external" scope="external">https://github.com/Aqueuse/NekoV2/releases/download/1.0.2/neko.jar</xref></cmd></step>
 <step><cmd>unzip the directory in the place of your choice</cmd></step></steps></taskbody></task>

@@ -6,4 +6,8 @@
 <shortdesc>a quick presentation of the neko app</shortdesc>
 <prolog><author>Aqueuse</author></prolog>
 <conbody><p>Neko is a desktop toy, a kitten with some advanced functionnalities
-(sleep and play mode).</p></conbody></concept>
+(sleep, cursor chase, free and play mode).</p>
+<p><image href="../ressources/capture-sytrayIcon.PNG" placement="break"
+ /></p>
+<p>When he is run, he lay on a system tray icon where you can switch
+his behavior (see <xref href="../usages-concept.xml">modes</xref>)</p></conbody></concept>

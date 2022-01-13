@@ -21,5 +21,5 @@
 <taskbody><prereq><p>You need to have Neko installed on your computer</p></prereq>
 <context><p>this quick tutorial will help you to launch Neko. It
 will spawn in the system tray icon of your desktop.</p></context>
-<steps><step><cmd>Go in the installation directory </cmd></step>
+<steps><step><cmd>Go in the installation directory</cmd></step>
 <step><cmd>double-click on the run.bat file</cmd></step></steps></taskbody></task>

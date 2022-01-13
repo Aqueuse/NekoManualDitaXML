@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "technicalContent/dtd/reference.dtd" [
 ]>
-<reference id="id221BG0LE0PH">
-    <title>MySystemTray class reference</title>
-    <shortdesc>A description of the methods of MySystemTray class</shortdesc>
-    <prolog>
-        <author>Aqueuse</author>
-    </prolog>
-    <refbody>
-		<section>
-			<b>the constructor</b>
-			<p>Create the Swing hierarchy with the buttons to switch the neko modes ((see modes))</p>
-            <p>When the sleep to the basket mode is triggered, the system tray icon become a basket with Neko sleeping inside.</p>
-		</section>
-		<section>
-			<b>buttons listener</b>
-			<p>A listener for the system tray. It contains the method itemStateChanged wich manage the modes of Neko.</p>
-		</section>
-    </refbody>
-</reference>
+
+<reference id="id221BG0LE0PH"><title>MySystemTray class reference</title>
+<shortdesc>A description of the methods of MySystemTray class</shortdesc>
+<prolog><author>Aqueuse</author></prolog>
+<refbody><section><b>the constructor</b> <p>Create the Swing hierarchy
+with the buttons to switch the neko modes (see <xref  href="../usages-concept.xml">modes</xref>)</p><p>When
+the sleep to the basket mode is triggered, the system tray icon
+become a basket with Neko sleeping inside.</p></section>
+<section><b>buttons listener</b> <p>A listener for the system tray.
+It contains the method itemStateChanged wich manage the modes of
+Neko.</p></section></refbody></reference>

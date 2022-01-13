@@ -15,13 +15,35 @@
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
-<task id="id221BH050V5U"><title>how to launch (by terminal)</title>
-<shortdesc>a quick manual to lauch Neko</shortdesc>
-<prolog><author>Aqueuse</author></prolog>
-<taskbody><prereq><p>You need to have Neko installed on your computer</p></prereq>
-<context><p>this quick tutorial will help you to launch Neko with
-powershell (or cmd). It will spawn in the system tray icon of your
-desktop.</p></context>
-<steps><step><cmd>start a powershell terminal</cmd></step>
-<step><cmd>go in the install directory</cmd></step>
-<step><cmd>execute ./run.bat</cmd></step></steps></taskbody></task>
+<task id="id221BH050V5U">
+	<title>how to launch (by terminal)</title>
+	<shortdesc>a quick manual to lauch Neko</shortdesc>
+	<prolog>
+		<author>Aqueuse</author>
+	</prolog>
+	<taskbody>
+		<prereq>
+			<p>You need to have Neko installed on your computer</p>
+		</prereq>
+		<context>
+			<p>This quick tutorial will help you to launch Neko with
+				cmd (or powershell). It will spawn in the system tray icon of your
+				desktop.</p>
+		</context>
+		<steps>
+			<step>
+				<cmd>start a powershell terminal</cmd>
+			</step>
+			<step>
+				<cmd>go in the install directory</cmd>
+			</step>
+			<step>
+				<cmd>execute the script “run.bat”</cmd>
+			</step>
+		</steps>
+		<example>
+			<image href="../ressources/cmd-launch-term.png" placement="break"
+ height="117.000pt" width="428.000pt" />
+		</example>
+	</taskbody>
+</task>
